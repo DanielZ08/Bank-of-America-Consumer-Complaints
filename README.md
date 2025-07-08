@@ -1,6 +1,17 @@
 # Bank of America Financial Consumer Complaints Analysis
 
 Table of Contents
+- [Project Background](https://github.com/DanielZ08/Bank-of-America-Consumer-Complaints/tree/main?tab=readme-ov-file#project-background)
+- [Data Structure & Initial Checks](https://github.com/DanielZ08/Bank-of-America-Consumer-Complaints/tree/main?tab=readme-ov-file#data-structure--initial-checks)
+- [Executive Summary](https://github.com/DanielZ08/Bank-of-America-Consumer-Complaints/tree/main?tab=readme-ov-file#executive-summary)
+  - [Overview of Findings](https://github.com/DanielZ08/Bank-of-America-Consumer-Complaints/tree/main?tab=readme-ov-file#overview-of-findings)
+- [Insights Deep-Dive](https://github.com/DanielZ08/Bank-of-America-Consumer-Complaints/tree/main?tab=readme-ov-file#insights-deep-dive)
+  - [Product Based Complaint Distribution](https://github.com/DanielZ08/Bank-of-America-Consumer-Complaints/tree/main?tab=readme-ov-file#product-based-complaint-distribution)
+  - [Annual Complaint Trends](https://github.com/DanielZ08/Bank-of-America-Consumer-Complaints/tree/main?tab=readme-ov-file#annual-complaint-trends)
+  - [Submission Method Analysis](https://github.com/DanielZ08/Bank-of-America-Consumer-Complaints/tree/main?tab=readme-ov-file#submission-method-analysis)
+  - [Geographic Breakdown](https://github.com/DanielZ08/Bank-of-America-Consumer-Complaints/tree/main?tab=readme-ov-file#geographic-breakdown)
+- [Recommendations](https://github.com/DanielZ08/Bank-of-America-Consumer-Complaints/tree/main?tab=readme-ov-file#recommendations)
+- [Assumptions and Caveats](https://github.com/DanielZ08/Bank-of-America-Consumer-Complaints/tree/main?tab=readme-ov-file#assumptions-and-caveats)
 
 ## Project Background
 Bank of America (NYSE: BAC) is one of the largest financial institutions in the world, serving over 67 million customers across consumer banking, corporate finance, wealth management, and investment services. Headquartered in Charlotte, North Carolina, it operates in more than 35 countries with total assets exceeding $3 trillion. Founded in 1904 and restructured through a major merger in 1998, Bank of America is known for its strong digital presence, serving over 40 million active digital users. Under CEO Brian Moynihan, the company focuses on responsible growth, sustainability, and financial innovation.
