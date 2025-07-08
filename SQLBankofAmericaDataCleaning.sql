@@ -69,5 +69,6 @@ WHERE
 --All NULLs in the "Sub-Issue" columns reflect that there isn't another menu option to select after the main issue page. This just means that the main issue is specific enough to not need a sub issue. 
 -- Company Public response is NULL when the solutions are straight forward. 
 --When "Company Response to Consumer" column is In Progress all the "Timely Response" columns that corresponds to that are NULLs.
+--There seems to be no correlation with the seven NULL values in Sub Product. My assumption would be that there may simply just be an internal error associated with that Null or the user simply did not select a Sub-Product
 
 
