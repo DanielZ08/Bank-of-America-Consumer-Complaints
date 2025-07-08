@@ -25,13 +25,11 @@ Targeted SQL queries regarding various business questions can be found [here](ht
 
 ## Data Structure & Initial Checks 
 Bank of America's Database structure as seen below consists of six tables: Complaint, Sub-Product, Product, Issue, CompanyPublicResponse, Issue. 
-
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/d58d1aa9-0110-47a2-af0c-28ef937a3a32" /> 
+Bank of America Dataset ERD
 
 
 ## Executive Summary
-
-
 ### Overview of Findings
 
 
